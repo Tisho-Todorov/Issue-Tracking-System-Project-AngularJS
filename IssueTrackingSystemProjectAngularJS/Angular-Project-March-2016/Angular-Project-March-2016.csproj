@@ -65,7 +65,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.html" />
+    <Content Include="addIssue.html" />
+    <Content Include="addProject.html" />
     <Content Include="scripts\angular.js" />
     <Content Include="style\navStyle.css" />
     <Content Include="Web.config" />
