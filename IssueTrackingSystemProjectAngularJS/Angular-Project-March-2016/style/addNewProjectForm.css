@@ -3,13 +3,21 @@
 }
 
 form > label {
+    margin-top: 0;
+    margin-bottom: 0;
     font-weight: bold;
+    font-size: x-large;
 }
 
 form > input {
+    margin-bottom: 2px;
     padding: 9px 12px 9px 12px;
     background-color: rgb(75, 184, 217);
     color: white;
     border-radius: 5px;
     border: none;
+}
+
+form > button {
+    margin: 0;
 }
