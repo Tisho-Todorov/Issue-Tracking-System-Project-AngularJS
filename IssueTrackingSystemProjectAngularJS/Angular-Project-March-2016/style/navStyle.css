@@ -1,0 +1,9 @@
+﻿body {
+}
+
+header > nav > button {
+    padding: 5px;
+    background-color: rgb(86, 176, 86);
+    color: white;
+    border-radius: 10px;
+}
