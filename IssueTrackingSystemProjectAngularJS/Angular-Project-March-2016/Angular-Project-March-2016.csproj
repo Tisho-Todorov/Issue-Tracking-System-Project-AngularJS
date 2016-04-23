@@ -67,7 +67,9 @@
   <ItemGroup>
     <Content Include="addIssue.html" />
     <Content Include="addProject.html" />
+    <Content Include="projects.html" />
     <Content Include="scripts\angular.js" />
+    <Content Include="style\addNewProjectForm.css" />
     <Content Include="style\navStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
