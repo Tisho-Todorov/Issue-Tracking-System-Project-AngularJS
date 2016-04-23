@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8"/>
+    <title>Add Issue</title>
+    <link href="style/navStyle.css" rel="stylesheet" />
+</head>
+<body>
+<header>
+    <nav>
+        <button>Go Back To Project</button>
+        <button>Dashboard</button>
+        <button>Projects</button>
+    </nav>
+</header>
+<form action="/" method="post">
+    <p>Add Issue</p>
+    <label>Title</label>
+    <input type="text"/>
+    <br />
+    <label>Description</label>
+    <input type="text"/>
+    <br />
+    <label>Project</label>
+    <input type="text" value="SoftUni Issue Tracker"/>
+    <br />
+    <label>AssigneeId</label>
+    <input type="text" value="ivan@gmail.com"/>
+    <br />
+    <label>PriorityId</label>
+    <input type="text" value="Low" />
+    <br />
+    <label>DueDate</label>
+    <input type="text" placeholder="yyyy/mm/dd"/>
+    <br />
+    <button>Add Issue</button>
+</form>
+
+<script src="scripts/angular.js"></script>
+</body>
+</html>
