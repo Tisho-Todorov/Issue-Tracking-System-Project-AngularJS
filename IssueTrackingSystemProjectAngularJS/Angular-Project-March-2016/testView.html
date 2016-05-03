@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8"/>
+    <title>Only for testing</title>  
+    <link href="style/navStyle.css" rel="stylesheet" />
+</head>
+<body ng-app="IssueTracker" ng-controller="myControler">
+<header>
+    <nav>
+        <button>Go Back To Project</button>
+        <button ng-click="">Dashboard</button>
+        <button>Projects</button>
+    </nav>
+</header>
+    <div ng-include="projectView"></div>
+<script src="scripts/angular.js"></script>
+<script src="scripts/app.js"></script>
+</body>
+</html>
