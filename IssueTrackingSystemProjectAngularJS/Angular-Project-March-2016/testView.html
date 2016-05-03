@@ -6,15 +6,20 @@
     <link href="style/navStyle.css" rel="stylesheet" />
 </head>
 <body ng-app="IssueTracker" ng-controller="myControler">
-<header>
-    <nav>
-        <button>Go Back To Project</button>
-        <button ng-click="">Dashboard</button>
-        <button>Projects</button>
-    </nav>
-</header>
+    <header>
+        <nav>
+            <button>Go Back To Project</button>
+            <button ng-click="">Dashboard</button>
+            <button>Projects</button>
+        </nav>
+    </header>
+    Select view:
+<select ng-model="projectView">
+    <option value="addIssue.html">Add Issue</option>
+    <option value="addProject.html">Add Project</option>
+</select>
     <div ng-include="projectView"></div>
-<script src="scripts/angular.js"></script>
-<script src="scripts/app.js"></script>
+    <script src="scripts/angular.js"></script>
+    <script src="scripts/app.js"></script>
 </body>
 </html>
