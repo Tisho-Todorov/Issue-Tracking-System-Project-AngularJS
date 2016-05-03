@@ -9,15 +9,17 @@
     <header>
         <nav>
             <button>Go Back To Project</button>
-            <button ng-click="">Dashboard</button>
+            <button>Dashboard</button>
             <button>Projects</button>
         </nav>
     </header>
     Select view:
 <select ng-model="projectView">
-    <option value="addIssue.html">Add Issue</option>
     <option value="addProject.html">Add Project</option>
+    <option value="addIssue.html">Add Issue</option>
 </select>
+    <br />
+    <br />
     <div ng-include="projectView"></div>
     <script src="scripts/angular.js"></script>
     <script src="scripts/app.js"></script>
