@@ -5,4 +5,10 @@
                     $scope.dashboardView = "dashboard.html";
                     $scope.newProjectView = "projects.html";
 
+                    $scope.changeView = function () {
+                       var el = angular.element('testDiv');
+                       el.attr('ng-include', dashboardView);
+                        $scope.apply(el);
+                    }
+
     });

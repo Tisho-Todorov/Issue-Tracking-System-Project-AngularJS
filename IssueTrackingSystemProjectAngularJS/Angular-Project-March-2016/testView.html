@@ -9,7 +9,7 @@
     <header>
         <nav>
             <button>Go Back To Project</button>
-            <button>Dashboard</button>
+            <button ng-click="changeView()">Dashboard</button>
             <button>Projects</button>
         </nav>
     </header>
@@ -22,7 +22,7 @@
 </select>
     <br />
     <br />
-    <div ng-include="projectView"></div>
+    <div ng-include="projectView" id="testDiv"></div>
     <script src="scripts/angular.js"></script>
     <script src="scripts/app.js"></script>
 </body>
