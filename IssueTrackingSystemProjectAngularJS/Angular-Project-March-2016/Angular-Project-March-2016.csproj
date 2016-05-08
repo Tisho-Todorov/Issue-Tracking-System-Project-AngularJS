@@ -65,10 +65,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="addIssue.html" />
-    <Content Include="addProject.html" />
-    <Content Include="dashboard.html" />
-    <Content Include="projects.html" />
+    <Content Include="templates\addIssue.html" />
+    <Content Include="templates\addProject.html" />
+    <Content Include="templates\dashboard.html" />
+    <Content Include="templates\projects.html" />
     <Content Include="scripts\angular.js" />
     <Content Include="scripts\app.js" />
     <Content Include="style\addNewProjectForm.css" />

@@ -4,3 +4,9 @@ C:\Users\vaio pc\Desktop\Issue-Tracking-System-Project-AngularJS\IssueTrackingSy
 C:\Users\vaio pc\Desktop\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.csprojResolveAssemblyReference.cache
 C:\Users\vaio pc\Desktop\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.dll
 C:\Users\vaio pc\Desktop\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.pdb
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\bin\Angular-Project-March-2016.dll.config
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\bin\Angular-Project-March-2016.dll
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\bin\Angular-Project-March-2016.pdb
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.csprojResolveAssemblyReference.cache
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.dll
+C:\Users\3-16\Desktop\Tisho's PC\Tisho PC\Issue-Tracking-System-Project-AngularJS\IssueTrackingSystemProjectAngularJS\Angular-Project-March-2016\obj\Debug\Angular-Project-March-2016.pdb
