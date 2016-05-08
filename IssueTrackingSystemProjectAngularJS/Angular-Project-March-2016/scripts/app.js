@@ -4,11 +4,6 @@
                     $scope.issueView = "templates/addIssue.html";
                     $scope.dashboardView = "templates/dashboard.html";
                     $scope.newProjectView = "templates/projects.html";
-
-                    $scope.changeView = function () {
-                       var el = angular.element('testDiv');
-                       el.attr('ng-include', dashboardView);
-                        $scope.apply(el);
-                    }
+                    $scope.issuePageView = "templates/issuePage.html";
 
     });
